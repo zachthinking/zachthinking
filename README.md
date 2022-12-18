@@ -6,7 +6,7 @@
 - 日常碎碎念在即刻，ID是Zach爱思考
 - 欢迎与我交流
 
-更长的介绍在[这里](https://github.com/zachthinking/zachthinking/blob/main/aboutme.md)。
+更长的介绍在[这里](https://github.com/zachthinking/zachthinking/blob/main/aboutme.md)
 
 <!---
 zachthinking/zachthinking is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
